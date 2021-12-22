@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @poojavishnoi
-- 👀 I’m interested in programming
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently doing IT enginnering
-- 💞️ It's my first experience on GitHub
+
 
 <!---
 poojavishnoi/poojavishnoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
