@@ -4,9 +4,8 @@
 
 ## 🚀 About Me  
 - 🎓 Currently pursuing **IT Engineering**  
-- 🌱 Learning and growing in **Web Development & Mobile Development**  
+- 🌱 Learning and growing in **Frontend Development & Mobile Development**  
 - 💼 2 years of professional experience at **Volopay (YC-backed Fintech startup)**  
-- 🏆 Recognized as **Champion of the Month** for impactful contributions  
 - ✨ Interested in **UI/UX, performance optimization, and building products at scale**  
 
 ## 🛠️ Tech Stack  
